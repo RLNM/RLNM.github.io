@@ -36,13 +36,13 @@ search: true
 nightMode: true
 
 Comments 评论功能
-comments:
-  disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+# comments:
+#   disqus: false
+#   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
   gitalk: true
   gitalk_clientID: '8e4bd963759ccf13f7eb'
   gitalk_Secret: 'c2dcf2102c53e9ec0cdad6baba04a1a2c79d2306'
-  gitalk_repo: 'RLNM.github.io'
+  gitalk_repo: 'rlnm.github.io'
   gitalk_owner: 'RLNM'
   gitalk_admin: 'RLNM'
   distractionFreeMode: true
